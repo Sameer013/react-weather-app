@@ -38,8 +38,8 @@ const WeatherApp = () => {
       const location = document.getElementsByClassName('weather-location');
 
       humidity[0].innerHTML = data.main.temp + " %";
-      wind[0].innerHTML = data.wind.speed + " km/h";
-      temprature[0].innerHTML = data.main.temp + "°c";
+      wind[0].innerHTML = Math.floor(data.wind.speed) + " km/h";
+      temprature[0].innerHTML = Math.floor(data.main.temp) + "°c";
       location[0].innerHTML = data.name; 
       }
       else{

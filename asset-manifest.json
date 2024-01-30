@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sameer013/react-weather-app/static/css/main.84271c96.css",
+    "main.js": "/Sameer013/react-weather-app/static/js/main.26fd68f9.js",
+    "static/js/787.d9312eb8.chunk.js": "/Sameer013/react-weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/cloud.png": "/Sameer013/react-weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Sameer013/react-weather-app/index.html",
+    "main.84271c96.css.map": "/Sameer013/react-weather-app/static/css/main.84271c96.css.map",
+    "main.26fd68f9.js.map": "/Sameer013/react-weather-app/static/js/main.26fd68f9.js.map",
+    "787.d9312eb8.chunk.js.map": "/Sameer013/react-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84271c96.css",
+    "static/js/main.26fd68f9.js"
+  ]
+}
